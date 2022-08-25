@@ -1,20 +1,23 @@
 {
-  "name": "mug",
+ 
+  "name": "react-portfolio-website-1",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "@testing-library/jest-dom": "^5.16.5",
-    "@testing-library/react": "^13.3.0",
+    "@testing-library/jest-dom": "^5.16.2",
+    "@testing-library/react": "^12.1.2",
     "@testing-library/user-event": "^13.5.0",
     "emailjs-com": "^3.2.0",
-    "react": "^18.2.0",
-    "react-dom": "^18.2.0",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
     "react-icons": "^4.3.1",
-    "react-scripts": "5.0.1",
+    "react-scripts": "5.0.0",
     "swiper": "^8.0.6",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
+   
+   
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
@@ -37,18 +40,6 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  },
-  "description": "AS AN employer looking for candidates with experience building single-page applications I WANT to view a potential employee's deployed React portfolio of work samples SO THAT I can assess whether they're a good candidate for an open position",
-  "main": "index.js",
-  "devDependencies": {},
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Mugisha27/Mugisha-P.git"
-  },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Mugisha27/Mugisha-P/issues"
-  },
-  "homepage": "https://github.com/Mugisha27/Mugisha-P#readme"
+  }
+
 }
