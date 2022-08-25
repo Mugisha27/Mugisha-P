@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Mugisha-P/static/css/main.6677bd08.css",
+    "main.js": "/Mugisha-P/static/js/main.0c7d15fe.js",
+    "static/media/face.png": "/Mugisha-P/static/media/face.fa6e0cc3d63e14661446.png",
+    "static/media/dating.png": "/Mugisha-P/static/media/dating.3c73c3f24801c5ebd1ea.png",
+    "static/media/me.png": "/Mugisha-P/static/media/me.26c516f9483195480c14.png",
+    "static/media/Mon nouveau resume.pdf": "/Mugisha-P/static/media/Mon nouveau resume.0ff8446c4a55155ac7ed.pdf",
+    "static/media/weather.png": "/Mugisha-P/static/media/weather.dc904e4f428cbf9eef4f.png",
+    "static/media/book.png": "/Mugisha-P/static/media/book.43fcd27b4ad439901fe4.png",
+    "index.html": "/Mugisha-P/index.html",
+    "main.6677bd08.css.map": "/Mugisha-P/static/css/main.6677bd08.css.map",
+    "main.0c7d15fe.js.map": "/Mugisha-P/static/js/main.0c7d15fe.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6677bd08.css",
+    "static/js/main.0c7d15fe.js"
+  ]
+}
